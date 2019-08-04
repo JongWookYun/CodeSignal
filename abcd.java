@@ -10,5 +10,6 @@ public class Level1 {
 		num2 = sc.nextInt();
 		
 		System.out.println("sum : " + (num1 + num2));
+		System.out.println("gitHub Changed!");
 	}
 }
