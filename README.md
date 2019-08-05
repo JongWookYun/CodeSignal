@@ -1,2 +1,0 @@
-# CodeSignal
-algorithm
